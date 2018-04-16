@@ -1,0 +1,9 @@
+
+
+conversation inspector - design and build
+
+
+
+https://github.com/nheidloff/conversation-inspector-for-ibm-watson
+
+https://conversation-inspector-for-ibm-watson.mybluemix.net/home

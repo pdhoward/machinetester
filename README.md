@@ -1,6 +1,8 @@
-# Conversation Inspector for IBM Watson
+# Strategic Machines Tester for Intelligent Interactions
 
-The [Conversation Inspector for IBM Watson](https://github.com/nheidloff/conversation-inspector-for-ibm-watson) is a tool for developers to build conversational user experiences with [Watson Conversation](https://www.ibm.com/watson/developercloud/conversation.html). The purpose of the tool is to display and manipulate the JSON that is sent between applications and Watson Conversation services. This is useful when, for example, you use [context variables](https://console.bluemix.net/docs/services/conversation/dialog-build.html#context) extensively to manage state information.
+This platform is a tool for developers to build conversational user experiences with strategic machines. The purpose of the tool is to display and manipulate the JSON that is sent between applications and Strategic Machine services.
+
+This is useful when, for example, you use context extensively to manage state information.
 
 Main functionality:
 
@@ -18,11 +20,6 @@ Try out the [online](https://conversation-inspector-for-ibm-watson.mybluemix.net
 Screenshot of a sample conversation:
 
 ![alt text](https://github.com/nheidloff/conversation-inspector-for-ibm-watson/raw/master/screenshots/conversation.png "Conversation Inspector for IBM Watson")
-
-Authors: 
-
-* Niklas Heidloff [@nheidloff](http://twitter.com/nheidloff)
-* Ansgar Schmidt [@ansi](https://twitter.com/ansi)
 
 
 # Setup on Bluemix
@@ -97,6 +94,6 @@ Go to [http://localhost:6023](http://localhost:6023) in your browser
 
 # Next Steps and Contributions
 
-We have a lot of ideas how to further improve the tool. Check out the [issues](https://github.com/nheidloff/conversation-inspector-for-ibm-watson/issues) for details. 
+We have a lot of ideas how to further improve the tool. Check out the [issues](https://github.com/nheidloff/conversation-inspector-for-ibm-watson/issues) for details.
 
 Create [issues](https://github.com/nheidloff/conversation-inspector-for-ibm-watson/issues) or pull requests with your desired changes.
